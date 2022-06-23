@@ -1,5 +1,4 @@
 gitの練習をしてます。
-練習用です
 ・git add
 ・git commit
 ・git remove
